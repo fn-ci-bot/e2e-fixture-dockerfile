@@ -1,0 +1,7 @@
+{
+  "name": "e2e-fixture-dockerfile",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
